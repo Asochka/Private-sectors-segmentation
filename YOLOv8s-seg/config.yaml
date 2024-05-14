@@ -1,0 +1,15 @@
+names:
+- Private sector
+nc: 1
+path: /formatted_dataset
+val: ./val/images
+train: ./train/images
+train: ./test/images
+
+
+
+
+
+
+
+
